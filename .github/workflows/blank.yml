@@ -12,4 +12,4 @@ jobs:
     steps:
       - name: Deploy on server
         run: |
-          curl https://s2.tmp1.dev/api/git/ERoepMPnljO04dwgkw8KxLWr158v6XQzDGmy/deploy
+          curl https://s2.tmp1.dev/api/git/wAbM4W9yB78QprVNxnPj3zO6XJe1LG2mgEqd/deploy
